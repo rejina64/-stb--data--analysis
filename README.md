@@ -1,4 +1,4 @@
-# -stb--data--analysis
+
 # Student Data Analysis Project (std.py)
 
 This project performs simple data analysis on student marks using Python.
@@ -20,7 +20,6 @@ Install Python libraries:
 pip install pandas
 
 ## ▶ How to Run
-
 1. Save the file as std.py
 2. Open terminal / command prompt
 3. Run the program:
@@ -32,10 +31,4 @@ python std.py
 - Total & percentage
 - Class average
 - Topper details
-- CSV file created
 
-## ✅ Library Used
-- pandas
-
-## ✍ Author
-Rejinaa
